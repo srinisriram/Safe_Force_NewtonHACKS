@@ -1,4 +1,3 @@
-#IDEA FOR THIS MODEL WAS BASED OFF OF THIS SOURCE: https://www.pyimagesearch.com/2020/01/06/raspberry-pi-and-movidius-ncs-face-recognition/
 
 import numpy as np
 import cv2
